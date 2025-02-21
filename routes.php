@@ -1,5 +1,5 @@
 <?php
-
+// This is a test
 $router->get('/', 'index.php');
 $router->get('/about', 'about.php');
 $router->get('/contact', 'contact.php');
